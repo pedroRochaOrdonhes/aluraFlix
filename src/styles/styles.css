@@ -1,4 +1,9 @@
+*{
+    transition: all ease 0.2s;
+}
 body{
     background: linear-gradient(#000, #111);
     color: #fff;
+    min-height: 100vh;
+    width: 100vw;
 }
