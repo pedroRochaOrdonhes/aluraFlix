@@ -28,7 +28,7 @@ section{
     align-items: center;
     gap: 5%;
     padding: 50px 20px;
-    background: linear-gradient(0deg, #2e96e5, #000);
+    background: linear-gradient(290deg, #2e96e5, #000);
 }
 .hero-description{
     display: flex;
