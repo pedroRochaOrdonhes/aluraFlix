@@ -22,7 +22,7 @@ header h1{
     font-size: 29px;
     color: #ddd;
 }
-section{
+.hero-area{
     display: flex;
     justify-content: center;
     align-items: center;
