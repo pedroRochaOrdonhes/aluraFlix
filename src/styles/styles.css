@@ -70,9 +70,7 @@ img{
 
 ::-webkit-scrollbar-track{
     opacity: 0.2;
-    width: 5px;
 }
 ::-webkit-scrollbar-thumb{
     border-radius: 3px;
-    width: 5px;
 }
