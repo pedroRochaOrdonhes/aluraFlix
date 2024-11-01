@@ -44,3 +44,9 @@ iframe{
 .hero-title{
     margin-bottom: 10px;
 }
+img{
+    height: 200px;
+}
+.linha-video{
+    overflow-x: auto;
+}
