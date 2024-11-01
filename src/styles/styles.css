@@ -12,6 +12,7 @@ body{
     width: 100vw;
     margin: 0;
     flex-direction: column;
+    margin-bottom: 150px;
 }
 header{
     padding: 12px;
@@ -57,4 +58,10 @@ img{
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+.linha-video img{
+    opacity: 0.8;
+}
+.linha-video img:hover{
+    opacity: 1;
 }
