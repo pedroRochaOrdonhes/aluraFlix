@@ -53,7 +53,7 @@ img{
     overflow-x: auto;
 }
 .videos{
-    padding: 20px 0;
+    padding: 0 20px;
     display: flex;
     flex-direction: column;
     gap: 20px;
